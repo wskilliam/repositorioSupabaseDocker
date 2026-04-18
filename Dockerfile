@@ -1,4 +1,4 @@
-FROM ghcr.io/supabase/edge-runtime:latest
+FROM ghcr.io/supabase/edge-runtime:v1.73.6
 
 WORKDIR /usr/services
 
