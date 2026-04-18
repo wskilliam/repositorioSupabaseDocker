@@ -6,4 +6,4 @@ COPY supabase/functions ./functions
 
 EXPOSE 9000
 
-CMD ["start", "--main-service", "/usr/services/functions"]
+CMD ["start", "--main-service", "/usr/services"]
